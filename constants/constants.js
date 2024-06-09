@@ -1,11 +1,11 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Rosen Vangarov';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Bulgaria',
+  City: 'Sofia',
+  Age: '28',
 };
 
 export const SKILLS = [
